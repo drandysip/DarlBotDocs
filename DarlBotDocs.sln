@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DarlBot", "DarlBot", "{E74D5168-752A-4751-855D-012241B61D5E}"
 	ProjectSection(SolutionItems) = preProject
 		EditTree.md = EditTree.md
+		Index.md = Index.md
+		RuleFramework.md = RuleFramework.md
+		SaveBot.md = SaveBot.md
+		SelectBot.md = SelectBot.md
 	EndProjectSection
 EndProject
 Global
