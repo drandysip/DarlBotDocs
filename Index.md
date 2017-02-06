@@ -7,5 +7,5 @@ There are several stages
 
 +  [Select a bot to edit](SelectBot)
 +  [Edit the Bot](EditTree)
-+  [Change the rule framework](RuleFrameWork)
++  [Change the rule framework](RuleFramework)
 +  [Save the changes to the Bot](SaveBot)
